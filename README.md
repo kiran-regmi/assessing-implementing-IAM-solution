@@ -3,9 +3,9 @@ In this project, we are assessing IAM readiness and implementing IAM solution fo
 
 # Table of Content:
 - IAM Fundamentals
-- TechCorp Current IAM Posture
-- TechCorp Requirements
-- TechCorp Briefing
+- Assessing TechCorp Current IAM Posture
+- Developing IAM Solutions
+- Implementing Custom IAM Solutions 
 - Enhancing customer experience with IAM
 
 # IAM Fundamentals:
