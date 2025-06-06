@@ -20,4 +20,4 @@ _**User lifecycle management:**_ Develop processes to manage user accounts throu
 
 _**Strong authentication:**_ Implement multi-factor authentication (MFA) to enhance security. MFA requires users to provide multiple forms of verification before gaining access.
 
-_**Audit and monitoring:**_Incorporate robust auditing and monitoring mechanisms to track user activities and detect anomalies or unauthorised access.
+_**Audit and monitoring:**_ Incorporate robust auditing and monitoring mechanisms to track user activities and detect anomalies or unauthorised access.
